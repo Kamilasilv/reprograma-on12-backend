@@ -1,0 +1,82 @@
+Resposta narrativa  exercícios
+1 Para trocar uma lâmpada queimada desligue o interruptor
+   tenha uma lâmpada nova
+   suba em uma escada
+   retire a lâmpada queimada e encaixe a nova
+   ligue o interruptor para verificar se a lâmpada acendeu
+   caso sim a lâmpada queimada foi trocada
+   caso não, repita o processo com outra lâmpada nova.
+
+2 Para lavar um prato tenha um prato sujo
+  Pegue a bucha e o sabão
+  umedeça a bucha com sabão e água
+  passe a bucha na parte de dentro e fora do prato
+  enxague o prato
+  caso não tenha tirado a sujeira por completo
+  repita o processo
+  tenha um prato limpo.
+
+3 Para trocar um pneu furado 
+  localize o estepe do seu carro
+  com uma chave de roda gire no sentido anti-horário
+  afrouxe os parafusos
+  encaixe o macaco na chave de roda
+  gire no sentido anti-horário para levantar o carro
+  retire a roda com pneu furado
+  coloque o estepe no carro
+  aperte os parafusos
+  use a chave de roda para descer o macaco
+  gire no sentido anti-horário
+  aperte bem os parafusos com o pé na chave de roda
+  guarde o estepe
+  guarde o pneu furado 
+  entre no carro
+  siga viagem
+
+4 Para fazer um débito no caixa eletrônico
+   se localize ao caixa
+   verifique a bandeira do seu cartão
+   insira o cartão no local indicado no caixa
+   insira o código de identificação 
+   digite sua senha
+   indique o valor a ser retirado
+   confirme o saque em débito
+   retire o dinheiro no local de saída do caixa eletronico
+   finalize a operação
+
+5 O professor deverá separar a pilha em partes
+  ter um espelho de correção 
+  pegar uma das partes das provas separadas 
+  corrigir prova por prova
+  colocar as corrigidas em local separado
+  
+6 Estipulem na brincadeira quem vai dar a ordem das palavras
+  ao dizer: vivo todos se levantam
+  ao dizer: morto todos se abaixam
+  quem errar a sequência
+  é eliminado da brincadeira
+
+7 tenha três números
+  junte cada um para somar
+  calcule a quantidade de cada número
+  junte as quantidades
+  tenha o resultado da soma
+
+8 Para descobrir dívida esse número por dois
+  se restar zero do resultado 
+  o número é par
+  se restar algo diferente de zero
+  o número é ímpar
+
+9 Some todas as notas do aluno
+  divida o resultado da soma pela quantidade de notas somadas
+  se o resultado for o mesmo ou maior que a média escolar
+  aluno aprovado
+  se o resultado for menor que a média
+  aluno reprovado
+  
+10 Se o funcionário recebe até 500 reais
+   acréscimo de 20% 
+   20% de 500$ equivale a 100 reais de acréscimo
+   se não, acréscimo de 10%
+   10% de acréscimo no salário novo.
